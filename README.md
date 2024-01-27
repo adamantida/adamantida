@@ -32,6 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adamantida/adamantida/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adamantida/adamantida/2fc45cd7fce5a08903a226d03c6db1ff5bfa6534/snake-dark.svg" alt="Snake animation" />
 
 ###
