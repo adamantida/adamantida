@@ -2,10 +2,7 @@
   <img height="150" src="https://i.pinimg.com/originals/bf/41/dd/bf41ddb85ad80d8b57d290921bdf0a0f.gif"  />
 </div>
 
-###
-
 <br clear="both">
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -31,7 +28,8 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/adamantida/adamantida/snake-dark.svg" alt="Snake animation" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/adamantida/adamantida/2fc45cd7fce5a08903a226d03c6db1ff5bfa6534/snake-dark.svg" alt="Snake animation" />
+</div>
 
 ###
