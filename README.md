@@ -36,9 +36,8 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adamantida/adamantida/2fc45cd7fce5a08903a226d03c6db1ff5bfa6534/snake-dark.svg" alt="Snake animation" />
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/adamantida/adamantida/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 ###
