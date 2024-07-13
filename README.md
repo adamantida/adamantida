@@ -6,32 +6,39 @@
 
 <br clear="both">
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm adamantida<br><br>- 🔭 I’m student<br>- 📚 I'm currently learning c# and ML.NET<br>- ⚡ In my free time I play Dota 2</p>
+<p align="left">
+  I'm adamantida<br><br>
+  - 🔭 I’m a student<br>
+  - 📚 I'm currently learning C# and ML.NET<br>
+  - ⚡ In my free time, I play Dota 2
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/adamantida/adamantida/2fc45cd7fce5a08903a226d03c6db1ff5bfa6534/snake-dark.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/adamantida/adamantida/2fc45cd7fce5a08903a226d03c6db1ff5bfa6534/snake-dark.svg" alt="Snake animation" />
+</div>
 
 ###
