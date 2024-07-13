@@ -11,7 +11,12 @@ jobs:
 
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3 # Обновлено до версии 3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16' # Можно указать '20', если ваша среда готова к работе с этой версией
 
       - name: Generate Snake
         uses: Platane/snk@v2
