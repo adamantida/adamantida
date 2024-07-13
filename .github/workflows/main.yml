@@ -31,7 +31,9 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git checkout -b gh-pages
-          git add dist/*
+          git checkout -b gh-pages || git checkout gh-pages
+          mkdir -p dist
+          cp dist/* .
+          git add .
           git commit -m "Update Snake animation"
           git push -u origin gh-pages --force
