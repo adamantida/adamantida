@@ -13,21 +13,17 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 ###
+<div align="center">
+I'm adamantida<br><br>
+🔭 I’m a student🔭<br>
+📚 I'm currently learning C++📚<br>
+⚡ In my free time, I play Dota 2⚡
+</div>
 
-<p align="left">
-  I'm adamantida<br><br>
-  - 🔭 I’m a student<br>
-  - 📚 I'm currently learning C++<br>
-  - ⚡ In my free time, I play Dota 2
-</p>
 
-###
+<h3 align="center">🛠 Languages and Tools</h3>
 
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
@@ -35,9 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
 </div>
 
-###
 <div align="center">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/adamantida/adamantida/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/adamantida/adamantida/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
-
-###
