@@ -17,7 +17,7 @@
 <p align="left">
   I'm adamantida<br><br>
   - 🔭 I’m a student<br>
-  - 📚 I'm currently learning C# and ML.NET<br>
+  - 📚 I'm currently learning C++<br>
   - ⚡ In my free time, I play Dota 2
 </p>
 
