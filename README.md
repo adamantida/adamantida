@@ -15,7 +15,6 @@
 ###
 <div align="center">
 I'm adamantida<br><br>
-🔭I’m a student🔭<br>
 📚I'm currently learning C++📚<br>
 ⚡In my free time, I play Dota 2⚡
 </div>
